@@ -5,21 +5,12 @@
 </div>
 
 <div align=center>
-  
-## *"hmmhmmhmm"*
-<br>
+
+## 🚧 페이지 공사중입니다 🚧
 
 </div>
 
-## 👻 about me
-- 에헴..
-</br>
-
-## 💫 interests
-- 백엔드 엔지니어링
-- AI, MLOps, 빅데이터 파이프라이닝, 대용량 스트리밍 시스템, 실시간 데이터 처리
-- 애자일
-</br>
+<!--
 
 <div align=center>
 
@@ -38,7 +29,25 @@
 </div>
 
 
-<!--
+
+
+<div align=center>
+  
+## *"hmmhmmhmm"*
+<br>
+
+</div>
+
+## 👻 about me
+- 에헴..
+</br>
+
+## 💫 interests
+- 백엔드 엔지니어링
+- AI, MLOps, 빅데이터 파이프라이닝, 대용량 스트리밍 시스템, 실시간 데이터 처리
+- 애자일
+</br>
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=insightp25)](https://github.com/anuraghazra/github-readme-stats)
 
