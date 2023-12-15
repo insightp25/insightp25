@@ -123,9 +123,9 @@ and helps create a better future.
 
 ## WRITINGS
 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rmndr&tag=프로젝트)](https://velog.io/@rmndr)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rmndr&tag=프로젝트)](https://velog.io/@rmndr/scalable-application-with-distributed-data)
 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rmndr&tag=알고리즘)](https://velog.io/@rmndr)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rmndr&tag=알고리즘)](https://velog.io/@rmndr/scalable-application-with-pull-push-for-low-latency)
   
 
 </div>
