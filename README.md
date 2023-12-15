@@ -16,9 +16,13 @@
 
 <div align=right>
 
-기술과 비전, 팀, 협업으로 임팩트 있는 소프트웨어를 개발하여
+inspired to build software
 
-사회적 문제를 해결하고 더 나은 미래를 만드는 일에 관심이 있습니다.
+that has impact, 
+
+malleates societal challenges, 
+
+and helps create a better future
   
 </div>
 
@@ -52,7 +56,7 @@
 
 <div align="center">
 
-## 스킬셋
+## SKILL SET
   
   <img src="https://img.shields.io/badge/Java-04B078?style=flat-square&logo=Java&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Spring-04B078?style=flat-square&logo=Spring&logoColor=FFFFFF"/>
@@ -96,7 +100,7 @@
 
 <div align=center>
 
-## 기술 블로그
+## TECH BLOG WRITINGS
 
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rmndr&tag=프로젝트)](https://velog.io/@rmndr)
 
