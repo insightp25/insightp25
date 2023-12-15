@@ -100,7 +100,7 @@ and helps create a better future
 
 <div align=center>
 
-## TECH BLOG WRITINGS
+## WRITINGS
 
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rmndr&tag=프로젝트)](https://velog.io/@rmndr)
 
