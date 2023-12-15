@@ -167,11 +167,11 @@ and helps create a better future.
 
 ## LANGUAGE PROFICIENCY
 
-|language|proficiency|
-|:--|:--:|
-|🇰🇷Korean|native|
-|🇺🇸English|fluent|
-|🇯🇵Japanese|business-level|
+|#|Language|**Proficiency**|
+|:--:|:--:|:--:|
+|1|🇰🇷Korean|native|
+|2|🇺🇸English|fluent|
+|3|🇯🇵Japanese|business-level|
 
 (all written and verbal)
 
