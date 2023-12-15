@@ -22,7 +22,7 @@ that has impact,
 
 malleates societal challenges, 
 
-and helps create a better future
+and helps create a better future.
   
 </div>
 
