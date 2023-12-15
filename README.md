@@ -98,6 +98,28 @@ and helps create a better future.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align=center>
 
 ## WRITINGS
@@ -126,6 +148,55 @@ and helps create a better future.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align=center>
+
+## LANGUAGE PROFICIENCY
+
+|language|proficiency|
+|:--|:--:|
+|🇰🇷Korean|native|
+|🇺🇸English|fluent|
+|🇯🇵Japanese|business-level|
+
+(all written and verbal)
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br><br>
 
 
 
