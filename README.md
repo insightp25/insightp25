@@ -54,7 +54,7 @@ and helps create a better future.
 
 <div align="center">
 
-## SKILL SET
+## TECH STACK
   
   <img src="https://img.shields.io/badge/Java-04B078?style=flat-square&logo=Java&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Spring-04B078?style=flat-square&logo=Spring&logoColor=FFFFFF"/>
