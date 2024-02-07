@@ -123,9 +123,9 @@ and helps create a better future.
 
 ## WRITINGS
 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rmndr&tag=프로젝트)](https://velog.io/@rmndr/scalable-application-with-distributed-data)
+  [신뢰할 수 없는 여러 부품으로 신뢰할 수 있는 시스템 구축하기(feat. 분산 데이터)](https://velog.io/@rmndr/scalable-application-with-distributed-data) ⬅️ Click
 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rmndr&tag=알고리즘)](https://velog.io/@rmndr/scalable-application-with-pull-push-for-low-latency)
+  [대용량 읽기 쏠림을 견디는 SNS 알고리즘 구현하기(feat. pull vs. push)](https://velog.io/@rmndr/scalable-application-with-pull-push-for-low-latency) ⬅️ Click
   
 
 </div>
