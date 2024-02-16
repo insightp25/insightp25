@@ -16,7 +16,7 @@
 
 inspired to build software
 
-that has impact, 
+that creates impact, 
 
 malleates societal challenges, 
 
