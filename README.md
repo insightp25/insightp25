@@ -16,11 +16,11 @@
 
 inspired to build software
 
-that creates impact, 
+that create impact, 
 
 malleates societal challenges, 
 
-and helps create a better future
+and helps make a better future
   
 </div>
 
