@@ -65,12 +65,18 @@ and helps make a better future
   <img src="https://img.shields.io/badge/Redis-04B078?style=flat-square&logo=Redis&logoColor=FFFFFF"/>
   <br>
   <img src="https://img.shields.io/badge/Python-04B078?style=flat-square&logo=Python&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/C%23-04B078?style=flat-square&logo=csharp&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/C-04B078?style=flat-square&logo=c&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/JavaScript-04B078?style=flat-square&logo=javascript&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/TypeScript-04B078?style=flat-square&logo=typescript&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/NestJS-04B078?style=flat-square&logo=nestjs&logoColor=FFFFFF"/>
+  <br>
   <img src="https://img.shields.io/badge/Jenkins-04B078?style=flat-square&logo=Jenkins&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Docker-04B078?style=flat-square&logo=docker&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/k8s-04B078?style=flat-square&logo=kubernetes&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Git-04B078?style=flat-square&logo=Git&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/GitHub-04B078?style=flat-square&logo=GitHub&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/AWS-04B078?style=flat-square&logo=amazonaws&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/NCP-04B078?style=flat-square&logo=Naver&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/intellij-04B078?style=flat-square&logo=intellijidea&Color=FFFFFF"/>
 
 </div>
 
@@ -169,13 +175,11 @@ and helps make a better future
 
 ## LANGUAGE PROFICIENCY
 
-|#|Language|**Proficiency**|
-|:--:|:--:|:--:|
-|1|🇰🇷Korean|native|
-|2|🇺🇸English|fluent|
-|3|🇯🇵Japanese|business-level|
-
-(all written and verbal)
+|#|Language|**Proficiency(written&verbal)**|**Certificates**|
+|:--:|:--:|:--:|:--:|
+|1|🇰🇷Korean|native|-|
+|2|🇺🇸English|fluent|TOEIC 970, OPIc AL-level|
+|3|🇯🇵Japanese|business-level|JLPT N1|
 
 </div>
 
