@@ -106,7 +106,7 @@ and helps make a better future
 
 ✨ [Scalable SNS API Server Project for Large-scale Read-write Traffics · 트위터를 모티브로 한 대용량 소셜네트워크 API 서버 프로젝트](https://github.com/f-lab-edu/twitter-clone)
 
-✨ [Automated Fundus Photograph Discrimination Model Using Transfer Learning · 전이학습을 활용한 안저사진 안저질환 병증 유무 자동판별 모델](https://github.com/insightp25/pytorch_fundus_discrimination_ai)
+✨ [Automated Fundus Photograph Discrimination Method Using Transfer Learning-applied Deep Learning Model · 전이학습 적용 딥러닝 모델을 활용한 안저사진 안저질환 병증 유무 자동판별 방법](https://github.com/insightp25/pytorch_fundus_discrimination_ai)
 
 </div>
 
