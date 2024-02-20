@@ -14,13 +14,7 @@
 
 <div align=right>
 
-inspired to build software
-
-that create impact, 
-
-malleates societal challenges, 
-
-and helps make a better future
+inspired to build software that create impact, malleates societal challenges, and helps make a better future
   
 </div>
 
