@@ -59,12 +59,6 @@ inspired to build software that create impact, malleates societal challenges, an
   <img src="https://img.shields.io/badge/Redis-04B078?style=flat-square&logo=Redis&logoColor=FFFFFF"/>
   <br>
   <img src="https://img.shields.io/badge/Python-04B078?style=flat-square&logo=Python&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/C%23-04B078?style=flat-square&logo=csharp&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/C-04B078?style=flat-square&logo=c&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/JavaScript-04B078?style=flat-square&logo=javascript&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/TypeScript-04B078?style=flat-square&logo=typescript&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/NestJS-04B078?style=flat-square&logo=nestjs&logoColor=FFFFFF"/>
-  <br>
   <img src="https://img.shields.io/badge/Jenkins-04B078?style=flat-square&logo=Jenkins&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Docker-04B078?style=flat-square&logo=docker&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/k8s-04B078?style=flat-square&logo=kubernetes&logoColor=FFFFFF"/>
