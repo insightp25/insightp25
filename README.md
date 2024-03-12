@@ -94,7 +94,6 @@ inspired to build software that create impact, malleates societal challenges, an
 
 ✨Link: [Scalable SNS API Server Project for Large-scale Read-write Traffics · 트위터를 모티브로 한 대용량 소셜네트워크 API 서버 프로젝트](https://github.com/f-lab-edu/twitter-clone)
 
-✨Link: [Automated Fundus Photograph Discrimination Method Using Transfer Learning-applied DL Model · 전이학습 적용 AI 모델을 활용한 안저사진 병증유무 자동판별 방법](https://github.com/insightp25/pytorch_fundus_discrimination_ai)
 
 </div>
 
