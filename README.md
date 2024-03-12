@@ -90,7 +90,7 @@ inspired to build software that create impact, malleates societal challenges, an
 <div align=center>
 
 
-## PROJECTS
+## PROJECT
 
 ✨Link: [Scalable SNS API Server Project for Large-scale Read-write Traffics · 트위터를 모티브로 한 대용량 소셜네트워크 API 서버 프로젝트](https://github.com/f-lab-edu/twitter-clone)
 
