@@ -9,25 +9,6 @@
 
 
 
-
-
-
-<div align=right>
-
-inspired to build software that create impact, malleates societal challenges, and helps make a better future
-  
-</div>
-
-
-
-
-
-
-
-
-
-
-
 <br>
 
 
@@ -153,14 +134,10 @@ inspired to build software that create impact, malleates societal challenges, an
 
 ## LANGUAGE PROFICIENCY
 
-|#|Language|**Proficiency(written&verbal)**|**Certificates**|
-|:--:|:--:|:--:|:--:|
-|1|🇰🇷Korean|native|-|
-|2|🇺🇸English|fluent|TOEIC 970, OPIc AL-level|
-|3|🇯🇵Japanese|business-level|JLPT N1|
+🇰🇷Korean - native, 🇺🇸English - fluent(TOEIC 970, OPIc AL-level), 🇯🇵Japanese - business level(JLPT N1)
+
 
 </div>
-
 
 
 
@@ -199,8 +176,5 @@ inspired to build software that create impact, malleates societal challenges, an
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finsightp25%2Finsightp25%2Fedit%2Fmain%2FREADME.md&count_bg=%2304B078&title_bg=%2304B078&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) 
 
 </div>
-
-
-
 
 
