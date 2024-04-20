@@ -1,5 +1,5 @@
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=04B078&text=insightp25&height=150&fontSize=60&desc=backend,%20data-streaming,%20AI,%20team,%20impact&descAlignY=75&descAlign=60&animation=twinkling)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=04B078&text=insightp25&height=150&fontSize=60&desc=interested%20in%20scalable%20system,%20data-streaming,%20AI&descAlignY=75&descAlign=60&animation=twinkling)
 
 
 
